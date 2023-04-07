@@ -1,0 +1,8 @@
+.navegador {
+    display: flex;
+    justify-content: space-around;
+    color: green;
+    background-color: black;
+    
+    font-size: 30px ;
+}
